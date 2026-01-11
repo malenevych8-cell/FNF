@@ -1,0 +1,23 @@
+img src {
+    margin : 40px;
+}
+h1 {
+    opacity: 90%;
+    background-color: rgb(180, 180, 180);
+}
+main {
+    background-color : rgb(161, 161, 161);
+}
+nav {
+    background-color : rgb(107, 107, 107);
+}
+footer {
+    background-color : rgb(65, 65, 65);
+}
+body {
+    background-color : rgb(130, 130, 130);
+}
+button {
+     border-radius: 20px;
+     background-color: #535353;
+}
